@@ -1,3 +1,4 @@
 # JOGOS SIMPLES 
 
-Treinando em C++
+Alura Curso de
+C++: Introdução a linguagem e a STL
